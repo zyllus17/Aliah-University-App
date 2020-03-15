@@ -1,8 +1,8 @@
-# aliah_app
+# Aliah-University-App
 
-A new Flutter application.
+App made using Flutter for Aliah University Kolkata, West Bengal, India
 
-## Getting Started
+## Screenshots
 
 This project is a starting point for a Flutter application.
 
